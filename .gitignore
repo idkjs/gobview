@@ -241,3 +241,4 @@ $RECYCLE.BIN/
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/ocaml,node,yarn,windows,macos,linux,visualstudiocode
+_esy
